@@ -1430,7 +1430,7 @@
   },
   {
     "id": "api.post.delete_post.can_not_delete_post_in_deleted.error",
-    "translation": "Can not delete a post in a deleted channel."
+    "translation": "Ne peut pas supprimer un message dans un canal supprimé."
   },
   {
     "id": "api.post.disabled_all",
@@ -1472,7 +1472,7 @@
   },
   {
     "id": "api.post.patch_post.can_not_update_post_in_deleted.error",
-    "translation": "Can not update a post in a deleted channel."
+    "translation": "Impossible de mettre à jour un message dans un canal supprimé."
   },
   {
     "id": "api.post.save_is_pinned_post.town_square_read_only",
@@ -1508,7 +1508,7 @@
   },
   {
     "id": "api.post.update_post.can_not_update_post_in_deleted.error",
-    "translation": "Can not update a post in a deleted channel."
+    "translation": "Impossible de mettre à jour un message dans un canal supprimé."
   },
   {
     "id": "api.post.update_post.find.app_error",
@@ -1564,7 +1564,7 @@
   },
   {
     "id": "api.restricted_system_admin",
-    "translation": "This action is forbidden to a restricted system admin."
+    "translation": "Cette action est interdite à un administrateur de système restreint."
   },
   {
     "id": "api.roles.patch_roles.license.error",
@@ -2232,7 +2232,7 @@
   },
   {
     "id": "api.user.login.bot_login_forbidden.app_error",
-    "translation": "Bot login is forbidden"
+    "translation": "L'accès au bot est interdit"
   },
   {
     "id": "api.user.login.client_side_cert.certificate.app_error",
@@ -2256,7 +2256,7 @@
   },
   {
     "id": "api.user.login_by_oauth.bot_login_forbidden.app_error",
-    "translation": "Bot login is forbidden"
+    "translation": "L'accès au bot est interdit"
   },
   {
     "id": "api.user.login_by_oauth.not_available.app_error",
@@ -3796,7 +3796,7 @@
   },
   {
     "id": "model.bot.is_valid.update_at.app_error",
-    "translation": "Invalid update at"
+    "translation": "Mise à jour invalide à"
   },
   {
     "id": "model.bot.is_valid.user_id.app_error",
@@ -4932,7 +4932,7 @@
   },
   {
     "id": "store.sql_bot.get.missing.app_error",
-    "translation": "Bot does not exist"
+    "translation": "Le bot n'existe pas"
   },
   {
     "id": "store.sql_channel.get.existing.app_error",
@@ -5252,7 +5252,7 @@
   },
   {
     "id": "searchengine.bleve.disabled.error",
-    "translation": "Error purging Bleve indexes: engine is disabled"
+    "translation": "Erreur lors de la purge des index de Bleve: le moteur de recherche est désactivé"
   },
   {
     "id": "plugin_api.bot_cant_create_bot",
@@ -5340,7 +5340,7 @@
   },
   {
     "id": "model.group.name.invalid_chars.app_error",
-    "translation": "invalid characters in the name property for group"
+    "translation": "caractères non valables au nom de la propriété par groupe"
   },
   {
     "id": "model.config.is_valid.saml_signature_algorithm.app_error",
@@ -5396,7 +5396,7 @@
   },
   {
     "id": "group_not_associated_to_synced_team",
-    "translation": "Group cannot be associated to the channel until it is first associated to the parent group-synced team."
+    "translation": "Le groupe ne peut pas être associé à la chaîne tant qu'il n'est pas d'abord associé à l'équipe de synchronisation du groupe parent."
   },
   {
     "id": "ent.ldap.validate_guest_filter.app_error",
@@ -5496,15 +5496,15 @@
   },
   {
     "id": "bleveengine.stop_user_index.error",
-    "translation": "Failed to close user index."
+    "translation": "Échec de l'index de l'utilisateur."
   },
   {
     "id": "bleveengine.stop_post_index.error",
-    "translation": "Failed to close post index."
+    "translation": "Échec de l'index du post."
   },
   {
     "id": "bleveengine.stop_channel_index.error",
-    "translation": "Failed to close channel index."
+    "translation": "Échec de l'index du canal."
   },
   {
     "id": "bleveengine.search_users_in_team.error",
@@ -5528,15 +5528,15 @@
   },
   {
     "id": "bleveengine.purge_user_index.error",
-    "translation": "Failed to purge user indexes."
+    "translation": "Échec de la purge des index de l'utilisateur."
   },
   {
     "id": "bleveengine.purge_post_index.error",
-    "translation": "Failed to purge post indexes."
+    "translation": "Échec de la purge des index du post."
   },
   {
     "id": "bleveengine.purge_channel_index.error",
-    "translation": "Failed to purge channel indexes."
+    "translation": "Échec de la purge des index du canal."
   },
   {
     "id": "bleveengine.indexer.index_batch.nothing_left_to_index.error",
@@ -5752,7 +5752,7 @@
   },
   {
     "id": "app.import.validate_user_import_data.auth_data_and_service_dependency.error",
-    "translation": "User AuthService and AuthData are mutually inclusive."
+    "translation": "AuthService et AuthData sont mutuellement inclusifs."
   },
   {
     "id": "app.import.validate_user_import_data.advanced_props_show_unread_section.error",
